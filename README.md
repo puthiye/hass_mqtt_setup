@@ -27,6 +27,7 @@ Add the toggle switch to dashboard using entities card
 
 <img width="836" height="550" alt="mqtt2_1" src="https://github.com/user-attachments/assets/9c938150-a586-4440-9c44-ca471a70cbd6" />
 
+Put the MQTT publish logic in a separate automation, under Settings → Automations & scenes → Create automation → Edit in YAML
 <img width="1403" height="1032" alt="mqtt3" src="https://github.com/user-attachments/assets/f2008857-3157-4517-a214-d5db80237826" />
 
 <img width="473" height="338" alt="mqtt4" src="https://github.com/user-attachments/assets/d3e4466b-a195-4152-bfbb-e666a143b923" />
