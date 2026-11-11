@@ -8,7 +8,7 @@ mosquitto-mqtt-broker.apps.svc.cluster.local:1883
 ```
 
 ### MQTT topic and subscriber
-The Home Assistant helper input_boolean.test publishes its state to the topic home/switch/status. When it changes, an automation sends the new state—`on` or off—to the Mosquitto broker. The message is retained, so the broker remembers the latest value and sends it to new subscribers.
+The Home Assistant helper input_boolean.tv_control_flag publishes its state to the topic home/switch/status. When it changes, an automation sends the new state—`on` or off—to the Mosquitto broker. The message is retained, so the broker remembers the latv_control_flag value and sends it to new subscribers.
 
 
 ### HASS config
