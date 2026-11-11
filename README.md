@@ -15,6 +15,9 @@ The Home Assistant helper input_boolean.tv_control_flag publishes its state to t
 
 ### HASS config
 
+MQTT broker 
+<img width="1200" height="926" alt="image" src="https://github.com/user-attachments/assets/e12d31cd-32d5-4d21-9558-c2570bd65606" />
+
 
 
 
