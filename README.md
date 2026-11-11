@@ -17,10 +17,19 @@ The Home Assistant helper input_boolean.tv_control_flag publishes its state to t
 
 <img width="1193" height="898" alt="image" src="https://github.com/user-attachments/assets/69d7486f-3930-436a-b763-30e63cad04ca" />
 
-<img width="473" height="338" alt="mqtt4" src="https://github.com/user-attachments/assets/b7bed156-d70c-4430-bcaf-1ce96a08163d" />
-<img width="1403" height="1032" alt="mqtt3" src="https://github.com/user-attachments/assets/53d00d87-a3c0-4faa-948e-941c4c84a1a0" />
-<img width="1209" height="807" alt="mqtt2" src="https://github.com/user-attachments/assets/04f34cb2-4eda-4f91-95b3-9489bd93a8af" />
-<img width="1249" height="718" alt="mqtt1" src="https://github.com/user-attachments/assets/311a4f57-e2e2-44b1-9762-66fd9b0fbe93" />
+<img width="1249" height="718" alt="mqtt1" src="https://github.com/user-attachments/assets/8a24d8e9-6ca5-4cd5-a25a-776e62404e6b" />
+
+<img width="1209" height="807" alt="mqtt2" src="https://github.com/user-attachments/assets/e89885d1-ab49-4ced-b9c8-f62e93a79b3b" />
+
+<img width="836" height="550" alt="mqtt2_1" src="https://github.com/user-attachments/assets/9c938150-a586-4440-9c44-ca471a70cbd6" />
+
+<img width="1403" height="1032" alt="mqtt3" src="https://github.com/user-attachments/assets/f2008857-3157-4517-a214-d5db80237826" />
+
+<img width="473" height="338" alt="mqtt4" src="https://github.com/user-attachments/assets/d3e4466b-a195-4152-bfbb-e666a143b923" />
+
+
+
+
 
 
 
