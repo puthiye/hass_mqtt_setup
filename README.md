@@ -17,6 +17,7 @@ The Home Assistant helper input_boolean.tv_control_flag publishes its state to t
 
 <img width="1193" height="898" alt="image" src="https://github.com/user-attachments/assets/69d7486f-3930-436a-b763-30e63cad04ca" />
 
+Create a helper function for the toggle switch
 <img width="1249" height="718" alt="mqtt1" src="https://github.com/user-attachments/assets/8a24d8e9-6ca5-4cd5-a25a-776e62404e6b" />
 
 <img width="1209" height="807" alt="mqtt2" src="https://github.com/user-attachments/assets/e89885d1-ab49-4ced-b9c8-f62e93a79b3b" />
